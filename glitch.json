@@ -1,6 +1,6 @@
 {
   "install": "bundle install --path ./.data/bundler --without=development",
-  "start": "bundle exec ruby server.rb",
+  "start": "bundle exec ruby app.rb",
   "watch": {
     "install": {
       "include": ["^Gemfile$"]
