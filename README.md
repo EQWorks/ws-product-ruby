@@ -15,4 +15,4 @@ You can also opt to develop using your local environment. Ruby v2.3+ is recommen
 
 ## Notes on working through the problems
 
-Make sure any additional Python level dependencies are properly added in `Pipfile`. We encourage a healthy mixture of your own implementations, and good choices of existing open-source libraries/tools. We will comment in the problems to indicate which ones cannot be solved purely through an off-the-shelf solution.
+We encourage a healthy mixture of your own implementations, and good choices of existing open-source libraries/tools. We will comment in the problems to indicate which ones cannot be solved purely through an off-the-shelf solution.
