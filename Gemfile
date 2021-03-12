@@ -8,3 +8,5 @@ gem "pg", "~> 1.2"
 gem "rerun", "~> 0.13.1", :group => :development
 
 gem "sinatra-contrib", "~> 2.1"
+
+gem "thin", "~> 1.8"
